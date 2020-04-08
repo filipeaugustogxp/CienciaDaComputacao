@@ -1,4 +1,4 @@
-# Ciencia Da Computação - UNIFEG
+# Ciência Da Computação - UNIFEG
 
 :mortar_board:[Página do Curso](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?codigocurso=101)
 
